@@ -1,1 +1,1 @@
-# FDSfE_SBreslin
+The purpose of a repository is to have a place to store your code in an organized mannor. This allows for easy access to go back and look at your old code while also storing it for other people to look at it and see how you completed something. 
